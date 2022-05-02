@@ -1,22 +1,20 @@
-{
-name: "Thailand by Pink Fiction",
-description: "Although you'll find this temple in Cambodia (Ankor Wat), the other images are from Thailand: Shiva, coconut bowls, elephants, monks and tourists. The bird follows your eyes in the interactive version.",
-image: "https://middlemist.mypinata.cloud/ipfs/QmPx6QYdL9yYsxvzBCjpE5kgc835mb2rXTLR1Xk2MFbvmg",
-external_url: "",
-attributes: [
-{
-key: "Thailand",
-value: "Asia"
-},
-{
-key: "Travel",
-value: "Faith"
-}
-],
-style: "Mixed Media",
-type: "GIF/Motion",
-themes: "Nature",
-artist: "Pink Fiction",
-token_type: "Video",
-theme_type: "Nature Art"
-}
+"name": "Thailand by Pink Fiction",
+  "description": "Although you'll find this temple in Cambodia (Ankor Wat), the other images are from Thailand: Shiva, coconut bowls, elephants, monks and tourists. The bird follows your eyes in the interactive version.",
+  "image": "https://middlemist.mypinata.cloud/ipfs/QmPx6QYdL9yYsxvzBCjpE5kgc835mb2rXTLR1Xk2MFbvmg",
+  "external_url": "",
+  "attributes": [
+    {
+      "key": "Thailand",
+      "value": "Asia"
+    },
+    {
+      "key": "Travel",
+      "value": "Faith"
+    }
+  ],
+  "style": "Mixed Media",
+  "type": "GIF/Motion",
+  "themes": "Nature",
+  "artist": "Pink Fiction",
+  "token_type": "Video",
+  "theme_type": "Nature Art"
